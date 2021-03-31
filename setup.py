@@ -8,7 +8,7 @@ with open('requirements.txt', 'r') as f:
 
 setup(
     name='pyblaze',
-    version='2.3.0'
+    version='2.3.0',
 
     author='Oliver Borchert',
     author_email='borchero@icloud.com',
