@@ -8,7 +8,7 @@ with open('requirements.txt', 'r') as f:
 
 setup(
     name='pyblaze',
-    version=os.getenv('CIRCLE_TAG'),
+    version='2.3.0'
 
     author='Oliver Borchert',
     author_email='borchero@icloud.com',
